@@ -33,7 +33,7 @@ for davlatlar in sorted (davlatlar):
     print(davlatlar.title()) 
  
  
-print("\n>>>POTAHTLAR ") 
+
  
 poytahtlar={ 
     "toshkent", 
@@ -74,17 +74,17 @@ else:
  
 
 menu={ 
-      "sir":15, 
-      "manti":23, 
-      "qozon kabob":45, 
-      "tandir somsa":9, 
-      "osh":20, 
-      "lag'mon":22, 
-      "non":4, 
-      "choy":3, 
-      "shashlik":12, 
-      "somsa":6, 
-      "tabaka":15 
+      "sir":24, 
+      "manti":31, 
+      "qozon kabob":49, 
+      "tandir somsa":12, 
+      "osh":17, 
+      "lag'mon":32, 
+      "non":7, 
+      "choy":6, 
+      "shashlik":29, 
+      "somsa":5, 
+      "tabaka":11 
       } 
 narh=0 
 print("3ta taom buyurtma bering!\n>>> ") 
