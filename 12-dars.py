@@ -38,12 +38,12 @@
 # print(f"a = {sonlar['a']}")
 
 
-talaba_0 = {
-    'ism':'alijon',
-    'familya':'valiyev',
-    'yosh':'22',
-    'fakulteti':'matematika',
-    }
+# talaba_0 = {
+#     'ism':'alijon',
+#     'familya':'valiyev',
+#     'yosh':'22',
+#     'fakulteti':'matematika',
+#     }
 
 
 # key = input("Kalit so'zini kiriting: ")
