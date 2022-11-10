@@ -110,13 +110,13 @@
 #             print(math.sqrt(float(son)))
 # print('Dastur to\'xtadi!')
 
-son = 0
-while son<10:
-    if son%2==0:
-        continue
-    else:
-        print(son)
-    son += 1
+# son = 0
+# while son<10:
+#     if son%2==0:
+#         continue
+#     else:
+#         print(son)
+#     son += 1
 
 
 

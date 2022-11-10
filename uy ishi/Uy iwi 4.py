@@ -52,35 +52,35 @@
 #     print("Matinli raqam")
     
     
-from random import randint
+# from random import randint
 
-a = randint(1,600)
-b = randint(1,500)
+# a = randint(1,600)
+# b = randint(1,500)
 
-c = int (input("{} x {} = ".format(a,b)))
+# c = int (input("{} x {} = ".format(a,b)))
 
-if c == (a + b):
-    print("To'gri! :)")
-else:
-    print("Xato! :(")
+# if c == (a + b):
+#     print("To'gri! :)")
+# else:
+#     print("Xato! :(")
 
-import math
-from random import randint
-print("O'zingizni sinab koring")
-print ("Hohlagan amalingizni bajaring")
-masalan = ["Ko'paytirish", "bolish","qoshish", "ayirish"]
-for a in masalan:
-    print(a, end= ("\n"))
-amal = input("Tanlagan amalingizni kiriting:  ")
-if amal.lower() == "kopaytirish" :
-    q = 0
-    for n in range(1, 6):
-        a = randint(1,20)
-        b = randint(1,20)
-        c = int(input("{} - {} = ".format(a , b)))
-        if c == (a + b):
-            print("To'gri! :)")
-            q = q + 1
+# import math
+# from random import randint
+# print("O'zingizni sinab koring")
+# print ("Hohlagan amalingizni bajaring")
+# masalan = ["Ko'paytirish", "bolish","qoshish", "ayirish"]
+# for a in masalan:
+#     print(a, end= ("\n"))
+# amal = input("Tanlagan amalingizni kiriting:  ")
+# if amal.lower() == "kopaytirish" :
+#     q = 0
+#     for n in range(1, 6):
+#         a = randint(1,20)
+#         b = randint(1,20)
+#         c = int(input("{} - {} = ".format(a , b)))
+#         if c == (a + b):
+#             print("To'gri! :)")
+#             q = q + 1
     
 #         else:
 #             print("hato! :(")

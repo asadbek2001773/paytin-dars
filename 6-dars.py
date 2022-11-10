@@ -1,10 +1,10 @@
-# sonlar=list(range(1, 10, 2))
-# print(sonlar)
+sonlar=list(range(1,  10 .2))
+print(sonlar)
 
 
-# RANGE va qadam  15, 35
-# toq_sonlar=list(range(15,35,2))
-# print("toq son:",toq_sonlar)
+range va qadam  15, 35,2
+toq_sonlar=list(range(15,35,2))
+print("toq son:",toq_sonlar)
 
 # cars = ["matiz","jiguli","nexia","kapriva","tiko","coblit"]
 # my_cars = cars[0:3]
@@ -34,18 +34,18 @@
 # tomonlar.pop(0)
 # print(tomonlar)
 
-# toys = ("bus","car","beor","dino","snake","lizard")
-# print(toys[0])
-# print(toys[-1])
-# print(toys[:5])
+toys = ("bus","car","beor","dino","snake","lizard")
+print(toys[0])
+print(toys[-1])
+print(toys[:5])
 
-# toys = ("bus","car","beor","dino","snake","lizard")
-# toys = list(toys)
-# toys.append("dragon")
-# toys.remove("bus")
-# toys[1] = "mcqueen"
-# toys = tuple(toys)
-# print(toys)
+toys = ("bus","car","beor","dino","snake","lizard")
+toys = list(toys)
+toys.append("dragon")
+toys.remove("bus")
+toys[1] = "mcqueen"
+toys = tuple(toys)
+print(toys)
 
 
 # raqamlar = (933_250_105, 995_595_934,972_754_517)
